@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.exe
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.deps.json
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.runtimeconfig.json
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.dll
+C:\Users\hp\source\repos\UserReg5\UserReg5\bin\Debug\netcoreapp3.1\UserReg5.pdb
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.AssemblyInfo.cs
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.dll
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.pdb
+C:\Users\hp\source\repos\UserReg5\UserReg5\obj\Debug\netcoreapp3.1\UserReg5.genruntimeconfig.cache
